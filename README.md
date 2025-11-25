@@ -1,3 +1,6 @@
+## Link Vídeo: https://youtu.be/8L8QICoOLcQ
+
+
 # 📘 Classificação de Células ALL com EfficientNet-B0
 
 Este projeto implementa um sistema completo de **classificação de células sanguíneas relacionadas à Leucemia Linfoblástica Aguda (ALL)** utilizando **PyTorch** e uma interface interativa desenvolvida em **Streamlit**.
